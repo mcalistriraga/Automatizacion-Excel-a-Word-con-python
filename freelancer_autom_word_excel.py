@@ -1,3 +1,21 @@
+''' 
+====================================================================================
+     Programa Python que automatiza un documento Word                                
+
+     Job Description: frelancer.es
+
+    Se trata sobre automatizar u docuemnto e word, sobre un reporte medioambiental, 
+    cambiando palabras clave y llenando tablas con información que está recopilada 
+    en exceles.
+
+        Habilidades: Python, Excel, SQLite, Word
+        Author: Eng Manuel Calistri
+        mcalistri.freel@gmail.com
+        Phone & Whatsapp: +058-426-903.5508
+        ver 03, 21 April 2023.
+===================================================================================
+'''
+
 from docxtpl import DocxTemplate    # para la plantilla
 from datetime import datetime       # para la plantilla
 import pandas as pd                 # ??? para la plantilla
