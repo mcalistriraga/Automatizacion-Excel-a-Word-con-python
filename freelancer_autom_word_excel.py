@@ -4,11 +4,11 @@
 
      Job Description: frelancer.es
 
-    Se trata sobre automatizar u docuemnto e word, sobre un reporte medioambiental, 
+    Se trata sobre automatizar un docmento a word, sobre un reporte medioambiental, 
     cambiando palabras clave y llenando tablas con información que está recopilada 
     en exceles.
 
-        Habilidades: Python, Excel, SQLite, Word
+        Habilidades: Python, Excel, Word
         Author: Eng Manuel Calistri
         mcalistri.freel@gmail.com
         Phone & Whatsapp: +058-426-903.5508
