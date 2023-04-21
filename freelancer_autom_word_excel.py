@@ -87,7 +87,7 @@ for index_est, fila_est in df_est.iterrows():   # aqui extrae una fila (info) de
     # print("\n nom_data_csv= ", nom_data_csv)
     # break
 
-    n += 1  # la prueba se hace para 10 estaciones....
+    n += 1    # la prueba se hace para 10 estaciones.... de un total de 126...
     
     if (n == 10):
         ultimo= True
