@@ -18,7 +18,7 @@
 
 from docxtpl import DocxTemplate    # para la plantilla
 from datetime import datetime       # para la plantilla
-import pandas as pd                 # ??? para la plantilla
+import pandas as pd                 # para la plantilla
 
 
 import docx                             # new para informe final
